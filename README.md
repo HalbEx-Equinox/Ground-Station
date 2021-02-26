@@ -1,7 +1,8 @@
 # Ground-Station
 <hr>
 This repository represents a 3D model of the ground station. <br>
-## The Boom
+
+The Boom
 <img src="https://github.com/HalbEx-Equinox/Ground-Station/blob/main/boom.png" alt="Boom">
 
 ## Simulated Ground Station
